@@ -1,1 +1,0 @@
-Frontend is Written using NextJS, Typescript and TailwindCss. 
