@@ -26,7 +26,7 @@
 
 ## Working Links
 - [Video Link](https://youtu.be/bf_bi5v2Ov4)
-- [URL link](https://nftai.vercel.app)
+- [URL link](https://fashionista-woad.vercel.app)
 
 # Business Plan
 
