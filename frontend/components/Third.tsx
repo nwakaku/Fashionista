@@ -73,7 +73,7 @@ const Third = () => {
               </li>
             </ul>
             <p className="mb-8 font-light lg:text-xl">
-              Unlock limitless style with Fashionista's NFT fashion, powered by
+              Unlock limitless style with NFT fashion, powered by
               AI and secured with XDC blockchain technology.
             </p>
             <button className="max-w-2xl mb-4 text-2xl bg-gradient-to-r from-pink-500 to-blue-500 text-white px-4 py-2 rounded-lg">
